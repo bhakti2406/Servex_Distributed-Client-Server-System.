@@ -1,6 +1,6 @@
-# Distributed Master-Slave Client-Server Architecture
+# Distributed Master-Slave Client-Server System
 
-This project demonstrates a distributed system using a master-slave (client-server) architecture in Python. It supports distributed word count and matrix multiplication operations, leveraging Pyro4 for remote object communication and Google Drive API for file handling.
+This project demonstrates a distributed system using a master-slave (client-server) system in Python. It supports distributed word count and matrix multiplication operations, leveraging Pyro4 for remote object communication and Google Drive API for file handling.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project demonstrates a distributed system using a master-slave (client-serv
 ## Directory Structure
 
 ```
-Master_Slave-Client_Server_Architecture/
+Master_Slave-Client_Server_System/
 ├── client.py
 ├── primary_server.py
 ├── secondary_server.py
