@@ -1,0 +1,4 @@
+Distributed systems are a collection of independent computers that appear to the users as a single coherent system.
+The key goals are transparency, scalability, and fault tolerance.
+Python makes it easier to simulate and implement such systems.
+Distributed computing is powerful.
