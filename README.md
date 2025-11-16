@@ -49,9 +49,7 @@ sudo apt install python3 python3-pip
 ### 2. Install Required Packages
 
 ```sh
-pip install tkinter socket threading google-auth \
-google-auth-oauthlib google-auth-httplib2 \
-google-api-python-client PyPDF2 Pyro4 psutil
+pip install tkinter socket threading
 ```
 
 ### 3. Start Pyro4 Name Server
@@ -111,10 +109,6 @@ python3 client.py
 - tkinter
 - socket
 - threading
-- google-auth
-- google-auth-oauthlib
-- google-auth-httplib2
-- google-api-python-client
 - PyPDF2
 - Pyro4
 - psutil
